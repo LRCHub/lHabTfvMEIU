@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "This game",
+  "base_artist": "鈴木このみ",
+  "createdAt": "2025-12-10T06:11:41.532570Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stop This Game",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/01_Stop_This_Game_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This game",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/02_This_game_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This game (Instrumental)",
+      "artist": "Konomi Suzuki",
+      "has_synced": true,
+      "path": "select/03_This_game_(Instrumental)_Konomi_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stop This Game",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/04_Stop_This_Game_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Are You Sure Love Is the Name of This Game",
+      "artist": "Diana Ross & The Supremes",
+      "has_synced": false,
+      "path": "select/05_Are_You_Sure_Love_Is_the_Name_of_This_Game_Diana_Ross_&_The_Supremes.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Game (dari \"No Game No Life\")",
+      "artist": "Rachie",
+      "has_synced": true,
+      "path": "select/06_This_Game_(dari__No_Game_No_Life_)_Rachie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Play This Game",
+      "artist": "Utopia",
+      "has_synced": false,
+      "path": "select/07_Play_This_Game_Utopia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stop This Game",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/08_Stop_This_Game_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Game",
+      "artist": "Parov Stelar",
+      "has_synced": true,
+      "path": "select/09_This_Game_Parov_Stelar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Play This Game With Me",
+      "artist": "Krezip",
+      "has_synced": true,
+      "path": "select/10_Play_This_Game_With_Me_Krezip.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This game",
+      "artist": "鈴木このみ",
+      "has_synced": true,
+      "path": "select/11_This_game_鈴木このみ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Are You Sure Love Is the Name of This Game",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/12_Are_You_Sure_Love_Is_the_Name_of_This_Game_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This game",
+      "artist": "Selphius",
+      "has_synced": false,
+      "path": "select/13_This_game_Selphius.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Game (No Game No Life)",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/14_This_Game_(No_Game_No_Life)_PelleK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "This game",
+      "artist": "鈴木このみ",
+      "has_synced": false,
+      "path": "select/pl_01_This_game_鈴木このみ.txt"
+    }
+  ]
+}
